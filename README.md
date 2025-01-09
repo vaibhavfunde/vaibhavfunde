@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Real World Datasets**
 
-- 🌱 I’m currently learning ** optimization in web development
+- 🌱 I’m currently learning  optimization in web development
 **
 
 - 💬 Ask me about **Full-stack development and solving DSA challenges**
@@ -46,6 +46,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavfunde&show_icons=true&locale=en" alt="vaibhavfunde" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavfunde&" alt="vaibhavfunde" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavfunde" alt="vaibhavfunde" /></p>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavfunde&show_icons=true&locale=en&layout=compact" alt="vaibhavfunde" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavfunde" alt="vaibhavfunde" /></a></p>
